@@ -21,10 +21,14 @@ save the file as "rotated.pgm"
 Now the user must rotate the wifi data to match with the rotated image:
 
 python rotate.py
+
 The program will ask for the angle of rotation.  Given the angle found previously--You must MULTIPLY BY -1 if using gimp, as gimp has different axes then we are used to.
 
 Now we process the image, find the floor, and fill the data:
+
 python makeBlocks.py
+
 this may take a few minutes.
+
 The dense map, with evenly spaced x,y cooridnates will be saved to denseMap.txt
 
