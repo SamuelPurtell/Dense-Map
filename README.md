@@ -1,6 +1,6 @@
 # Dense-Map
 
-In order to se this code, you must have numpy library installed:
+In order to use this code, you must have numpy library installed:
 
 sudo apt-get install python-numpy
 
