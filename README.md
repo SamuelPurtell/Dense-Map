@@ -34,4 +34,6 @@ The dense map, with evenly spaced x,y cooridnates will be saved to denseMap.txt
 
 Note:  Every single location may not have data.  If Readings are too far away, they will not be considered. The best way to ensre readings at every point is to sample the area adequately.  
 
-In our case 93% of 0.5m x 0.5m blocks have wifi data
+In our case 93% of 0.5m x 0.5m blocks have wifi data.  This can be imporoved with adeqate sampling.
+
+Sample files for "wifi.txt" and "denseMap.txt" show the format for wifiData.
